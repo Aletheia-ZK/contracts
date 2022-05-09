@@ -1,0 +1,11 @@
+{
+  "name": "ZKU_NFT",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "nft.storage": "^6.1.0"
+  }
+}

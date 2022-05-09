@@ -1,0 +1,9 @@
+/inspiration
+/old
+/artifacts
+/cache
+.env.development
+.DS_Store
+.env.production
+node_modules/
+/nft_creation/.env
